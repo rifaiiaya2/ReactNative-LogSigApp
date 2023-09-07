@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840863914204",
+    "project_id": "plantsapp-436c8",
+    "storage_bucket": "plantsapp-436c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840863914204:android:0eb09b9e233b8480947c19",
+        "android_client_info": {
+          "package_name": "com.Screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840863914204-vgss7s5mhrmioti7lvhhghcbogen7rn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf40_lAnckH-bn4Jto66Z_KiIHinVVkdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840863914204-vgss7s5mhrmioti7lvhhghcbogen7rn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
